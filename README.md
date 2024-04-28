@@ -13,3 +13,4 @@ Ways to contribute:
 - Find wrongly listed channels/video IDs. Make a post [here](https://github.com/Incrypters/YT-ScamDatabase/issues) to alert me. ⚠️
 - Give search suggestions for the bot so it can find more videos. Please make the queries specific to eliminate the chances of a wrongly included channel or video. I will review each pull request for this.❔
 - Join my [Discord Sever - Scam Finder](https://discord.gg/fpJbN4kBEk) for real time list of scam video/channels.🤗
+- If you have any suggestions to improve this repository make a pull request. 🙋‍♂️
