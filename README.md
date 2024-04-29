@@ -18,6 +18,9 @@ The data shown is collected from my very own Scam Scanner bot on my [Discord Sev
 ## What are uses of this dataset?
 Almost all of the dataset contains videos that promote malware. This makes the dataset a great way to find fresh malware samples for testing and cybersecurity purposes! Additionally, you may report these bad actors and try to take down videos and channels. This list may also be used in 3rd party applications to block these scam videos and channels from showing up.✅
 
+## Project that uses this dataset:
+My friend create an extension that uses the dataset to help raise awareness about the scams on Youtube. You can check it out [here](https://github.com/oMaster120o/No-ScamTubers) 👈
+
 ## Contributing
 Ways to contribute:
 - Find wrongly listed channels/video IDs. Make a post [here](https://github.com/Incrypters/YT-ScamDatabase/issues) to alert me. ⚠️
