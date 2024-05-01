@@ -1,4 +1,4 @@
-[Scam_URLs.txt](https://github.com/Incrypters/YT-ScamDatabase/files/15170862/Scam_URLs.txt)# YT-ScamDatabase
+# YT-ScamDatabase
 ---------------------
 Welcome to the database containing many scam channels and videos on youtube! I hope you find this list interesting and feel free to use the list as you wish. If you find any channels or videos that may not be scams and are incorrectly displayed, please make a post in [issues](https://github.com/Incrypters/YT-ScamDatabase/issues) and I will take a look and take action. Stay safe!❤️
 
