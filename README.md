@@ -13,7 +13,7 @@ For the .JSON format, the first ID is the channel ID and the second ID is the vi
 For the .txt format, the ID on top is the channel ID. It is longer then the video ID. The ID on the bottom is the video ID. Each video is uploaded by the channel ID above it.
 
 -------------------
-For the Scam_URLs.txt file, you can put the [link for the file (click me!)](https://raw.githubusercontent.com/Incrypters/YT-ScamDatabase/main/Scam_URLs.txt) in uBlock Origin or other ad-blockers which support 3rd party lists to prevent encountering the scams on Youtube. This will work really good if you want to prevent children from downloading malware.🚸
+For the raw Scam_URLs.txt file, you can click here [link for the file (click me!)](https://raw.githubusercontent.com/Incrypters/YT-ScamDatabase/main/Scam_URLs.txt).⬅️
 
 ## Where does this data come from?
 The data shown is collected from my very own Scam Scanner bot on my [Discord Sever - Scam Finder](https://discord.gg/fpJbN4kBEk). The bot uses specific search queries using the Youtube API on Google Cloud to find scam videos and channels. This repository serves as a hub to list these results.🙂
