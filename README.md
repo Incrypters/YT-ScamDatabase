@@ -4,6 +4,8 @@ Welcome to the database containing many scam channels and videos on youtube! I h
 
 ## How do I use/interpret the dataset?
 
+###⚠️DISCLAIMER: The provided youtube links may promote malicious and harmful content. Going to the listed URLs are at the user's own risk. This dataset is used for research and educational purposes only!⚠️
+
 ![Screenshot 2024-04-29 084209](https://github.com/Incrypters/YT-ScamDatabase/assets/164966896/dec04cea-4a02-412e-a5c6-61450168c751)
 -------------------
 For the .JSON format, the first ID is the channel ID and the second ID is the video ID. The video ID is shorter then the channel ID. Each video corresponds to the channel that uploaded it.
