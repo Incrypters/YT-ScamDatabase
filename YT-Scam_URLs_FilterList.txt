@@ -1,5 +1,5 @@
 ! Title: Youtube Scam Videos/Channel
-! Last modified: %timestamp%
+! Last modified: Fri, 10 May 2024 23:48:21 +0000
 ! Expires: 7 days
 ! Description: List of many scam videos targetted to game cheats/mods.
 !
