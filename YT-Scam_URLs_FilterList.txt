@@ -11,7 +11,7 @@
 
 
 
-||youtube.com/channel/UCK5Es63vf6gAgflsR2Ase5Q^
+0.0.0.0 youtube.com/channel/UCK5Es63vf6gAgflsR2Ase5Q
 ||youtube.com/watch?v=VtSEHB5XEMg^
 ||youtube.com/channel/UCK5Es63vf6gAgflsR2Ase5Q^
 ||youtube.com/watch?v=EGouhl_PgaA^
