@@ -17,7 +17,9 @@ Click on the gear icon at the bottom right corner of the uBlock interface.
 
 Navigate to the `Filter Lists` tab. 
 
-![Screenshot 2024-05-11 125400](https://github.com/Incrypters/YT-ScamDatabase/assets/164966896/488a893c-1df4-4ee7-8572-c004134f288c). Then click on it.
+![Screenshot 2024-05-11 125400](https://github.com/Incrypters/YT-ScamDatabase/assets/164966896/488a893c-1df4-4ee7-8572-c004134f288c). 
+
+Then click on it.
 
 Scroll all the way to the bottom.
 
