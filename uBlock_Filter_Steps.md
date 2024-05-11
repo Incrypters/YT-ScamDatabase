@@ -28,7 +28,7 @@ Find the section that says `>Import...`, then click on `Import` or the arrow nex
 
 ![Screenshot 2024-05-11 125416](https://github.com/Incrypters/YT-ScamDatabase/assets/164966896/5eb1f3d9-de1c-4a23-8a57-157675e28c09).
 
-Then copy this URL: https://raw.githubusercontent.com/Incrypters/YT-ScamDatabase/main/YT-Scam_URLs_FilterList.txt
+**Then copy this URL: https://raw.githubusercontent.com/Incrypters/YT-ScamDatabase/main/YT-Scam_URLs_FilterList.txt**
 
 Paste the URL into the text box that appears after clicking on `Import` or the arrow next to it. 
 
