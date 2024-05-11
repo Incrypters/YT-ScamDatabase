@@ -21,6 +21,11 @@ For the raw Scam_URLs.txt file, you can click here [link for the file (click me!
 
 For the filter list, you can click here [link for the file (click me!)](https://raw.githubusercontent.com/Incrypters/YT-ScamDatabase/main/YT-Scam_URLs_FilterList.txt).⬅️
 
+## How to add the database as a filter list into uBlock origin.
+For steps on how to add the database URLs as a uBlock Filter, [click me!](https://incrypters.github.io/YT-ScamDatabase/uBlock_Filter_Steps)
+
+For other adblock services, just use the filter list URL provided above and add it to your custum filter lists.
+
 ## Where does this data come from?
 The data shown is collected from my very own Scam Scanner bot on my [Discord Sever - Scam Finder](https://discord.gg/fpJbN4kBEk). The bot uses specific search queries using the Youtube API on Google Cloud to find scam videos and channels. This repository serves as a hub to list these results.🙂
 
