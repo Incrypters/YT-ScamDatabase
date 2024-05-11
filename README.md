@@ -18,6 +18,7 @@ For the .txt format, the ID on top is the channel ID. It is longer then the vide
 
 -------------------
 For the raw Scam_URLs.txt file, you can click here [link for the file (click me!)](https://raw.githubusercontent.com/Incrypters/YT-ScamDatabase/main/Scam_URLs.txt).⬅️
+
 For the filter list, you can click here [link for the file (click me!)](https://raw.githubusercontent.com/Incrypters/YT-ScamDatabase/main/YT-Scam_URLs_FilterList.txt).⬅️
 
 ## Where does this data come from?
