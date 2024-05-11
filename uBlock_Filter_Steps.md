@@ -1,6 +1,6 @@
 # How to add the database into uBlock 
 Adding the filter list into [uBlock Origin](https://github.com/gorhill/uBlock) will help prevent visiting any of these scam videos or channels on youtube. 
-----------
+
 ### Step 1
 Install [uBlock Origin](https://github.com/gorhill/uBlock). Once installed, click the little extensions icon on the top right corner of the browser. Depending on what browser you are using, it will look a little different.
 
