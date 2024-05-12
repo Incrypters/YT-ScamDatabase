@@ -12,7 +12,7 @@
 
 
 ||youtube.com/channel/UCK5Es63vf6gAgflsR2Ase5Q$all,domain=youtube.com
-||youtube.com/watch?v=VtSEHB5XEMg*$all,domain=youtube.com
+||youtube.com/watch?v=VtSEHB5XEMg$all,domain=youtube.com
 ||youtube.com/channel/*UCK5Es63vf6gAgflsR2Ase5Q*$all
 ||youtube.com/watch?v=*EGouhl_PgaA*$all
 ||youtube.com/channel/*UCK5Es63vf6gAgflsR2Ase5Q*$all
