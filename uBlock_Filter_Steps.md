@@ -17,7 +17,7 @@ Click on the gear icon at the bottom right corner of the uBlock interface.
 
 Navigate to the `Filter Lists` tab. 
 
-![Screenshot 2024-05-11 125400](https://github.com/Incrypters/YT-ScamDatabase/assets/164966896/488a893c-1df4-4ee7-8572-c004134f288c). 
+![Screenshot 2024-05-11 125400](https://github.com/Incrypters/YT-ScamDatabase/assets/164966896/488a893c-1df4-4ee7-8572-c004134f288c) 
 
 Then click on it.
 
@@ -26,7 +26,7 @@ Scroll all the way to the bottom.
 ### Step 3
 Find the section that says `>Import...`, then click on `Import` or the arrow next to it. 
 
-![Screenshot 2024-05-11 125416](https://github.com/Incrypters/YT-ScamDatabase/assets/164966896/5eb1f3d9-de1c-4a23-8a57-157675e28c09).
+![Screenshot 2024-05-11 125416](https://github.com/Incrypters/YT-ScamDatabase/assets/164966896/5eb1f3d9-de1c-4a23-8a57-157675e28c09)
 
 **Then copy this URL: https://raw.githubusercontent.com/Incrypters/YT-ScamDatabase/main/YT-Scam_URLs_FilterList.txt**
 
